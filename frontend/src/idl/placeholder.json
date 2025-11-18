@@ -1,0 +1,4 @@
+{
+  "note": "After building your Anchor program, copy the generated IDL file here",
+  "instruction": "Run 'anchor build' in the anchor_project directory, then copy target/idl/nft_minting.json to this location"
+}
